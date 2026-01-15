@@ -14,7 +14,7 @@ A simple console-based Python application to record and manage daily expenses us
 - Loops & Conditionals
 - Lists & Dictionaries
 - Basic Input/Output
-- 
+  
 ## Learning Outcomes
 -Gained hands-on experience with core Python programming
 -Applied loops, conditionals, lists, and dictionaries in a real-world use case
